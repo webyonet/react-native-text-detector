@@ -3,9 +3,9 @@ package com.fetchsky.RNTextDetector;
 
 import android.graphics.BitmapFactory;
 import android.graphics.Rect;
-import android.support.annotation.NonNull;
 import android.util.Log;
 
+import androidx.annotation.NonNull;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
